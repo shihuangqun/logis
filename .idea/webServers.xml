@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c13c4347-845d-4c8f-af67-8ae4f2c84d0f" name="logis" url="http://47.98.186.219">
+        <fileTransfer host="47.98.186.219" port="22" rootFolder="/www/wwwroot/logis.yaoget.cn/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
